@@ -3,3 +3,9 @@ h1 {
     height: 500px;
     background-color: antiquewhite;
 }
+
+h2{
+    background-color: red;
+    color: wheat;
+    text-align: center;
+}
